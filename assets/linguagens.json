@@ -1,0 +1,204 @@
+{
+  "linguagens": [
+    {
+      "nome": "Python",
+      "dicas": [
+        "Esta linguagem é conhecida por sua sintaxe limpa e legibilidade de código.",
+        "É amplamente usada em ciência de dados e desenvolvimento web.",
+        "Seu logotipo é uma cobra."
+      ]
+    },
+    {
+      "nome": "JavaScript",
+      "dicas": [
+        "Esta linguagem é usada principalmente para criar páginas web interativas.",
+        "É uma das linguagens de programação mais populares do mundo.",
+        "Foi desenvolvida pela Netscape."
+      ]
+    },
+    {
+      "nome": "Java",
+      "dicas": [
+        "Esta linguagem é usada em uma variedade de dispositivos, desde telefones celulares até supercomputadores.",
+        "É conhecida por sua portabilidade, o que significa que o código escrito em uma plataforma pode ser executado em outra.",
+        "Foi inicialmente desenvolvida pela Sun Microsystems."
+      ]
+    },
+    {
+      "nome": "C",
+      "dicas": [
+        "Esta linguagem é amplamente usada para desenvolvimento de sistemas operacionais e software de baixo nível.",
+        "É uma das linguagens de programação mais antigas ainda em uso.",
+        "Foi desenvolvida por Dennis Ritchie na década de 1970."
+      ]
+    },
+    {
+      "nome": "C++",
+      "dicas": [
+        "Esta linguagem é uma extensão da linguagem C com suporte a programação orientada a objetos.",
+        "É usada em uma variedade de aplicações, incluindo sistemas embarcados, jogos e software de sistema.",
+        "Foi desenvolvida por Bjarne Stroustrup."
+      ]
+    },
+    {
+      "nome": "C#",
+      "dicas": [
+        "Esta linguagem é desenvolvida pela Microsoft e faz parte da plataforma .NET.",
+        "É amplamente usada para desenvolvimento de aplicativos para Windows e jogos utilizando a Unity.",
+        "Possui uma sintaxe similar à linguagem Java."
+      ]
+    },
+    {
+      "nome": "Ruby",
+      "dicas": [
+        "Esta linguagem é conhecida por sua simplicidade e produtividade.",
+        "É usada principalmente para desenvolvimento web, com o framework Ruby on Rails sendo muito popular.",
+        "Foi desenvolvida por Yukihiro Matsumoto no Japão."
+      ]
+    },
+    {
+      "nome": "Swift",
+      "dicas": [
+        "Esta linguagem foi desenvolvida pela Apple para desenvolvimento de aplicativos iOS, macOS, watchOS e tvOS.",
+        "É considerada uma linguagem segura e moderna.",
+        "Foi anunciada pela primeira vez em 2014."
+      ]
+    },
+    {
+      "nome": "Go",
+      "dicas": [
+        "Esta linguagem foi desenvolvida pelo Google e é projetada para ser eficiente e escalável.",
+        "É usada em grande escala em sistemas distribuídos e de grande escala.",
+        "Possui uma sintaxe simples e concisa."
+      ]
+    },
+    {
+      "nome": "R",
+      "dicas": [
+        "Esta linguagem é amplamente usada para estatísticas e análise de dados.",
+        "É muito popular entre os cientistas de dados e pesquisadores acadêmicos.",
+        "Possui uma grande variedade de pacotes para diferentes fins."
+      ]
+    },
+    {
+      "nome": "PHP",
+      "dicas": [
+        "Esta linguagem é usada principalmente para desenvolvimento web do lado do servidor.",
+        "É uma das linguagens mais antigas para desenvolvimento web e ainda é amplamente usada.",
+        "Foi desenvolvida por Rasmus Lerdorf no final da década de 1990."
+      ]
+    },
+    {
+      "nome": "HTML",
+      "dicas": [
+        "Esta linguagem não é uma linguagem de programação, mas sim uma linguagem de marcação usada para criar páginas web.",
+        "É a espinha dorsal de qualquer página web e é usada em conjunto com CSS e JavaScript.",
+        "HTML significa HyperText Markup Language."
+      ]
+    },
+    {
+      "nome": "CSS",
+      "dicas": [
+        "Esta linguagem é usada para estilizar páginas web e definir sua aparência.",
+        "É frequentemente usada em conjunto com HTML para criar layouts e designs atraentes.",
+        "CSS significa Cascading Style Sheets."
+      ]
+    },
+    {
+      "nome": "SQL",
+      "dicas": [
+        "Esta linguagem é usada para manipular e consultar bancos de dados relacionais.",
+        "É amplamente usada em sistemas de gerenciamento de banco de dados como MySQL, PostgreSQL e Oracle.",
+        "SQL significa Structured Query Language."
+      ]
+    },
+    {
+      "nome": "TypeScript",
+      "dicas": [
+        "Esta linguagem é um superset de JavaScript que adiciona tipagem estática opcional.",
+        "É amplamente usada em projetos JavaScript de grande escala.",
+        "Foi desenvolvida pela Microsoft."
+      ]
+    },
+    {
+      "nome": "Kotlin",
+      "dicas": [
+        "Esta linguagem é uma linguagem de programação moderna e concisa, desenvolvida pela JetBrains.",
+        "É amplamente utilizada para desenvolvimento Android, sendo uma alternativa ao Java.",
+        "Foi anunciada pela primeira vez em 2011."
+      ]
+    },
+    {
+      "nome": "Rust",
+      "dicas": [
+        "Esta linguagem é conhecida por sua segurança e desempenho.",
+        "É usada principalmente para desenvolvimento de sistemas e aplicações de alto desempenho.",
+        "Foi desenvolvida pela Mozilla Research."
+      ]
+    },
+    {
+      "nome": "Scala",
+      "dicas": [
+        "Esta linguagem é uma linguagem de programação multiparadigma, projetada para ser concisa e expressiva.",
+        "É usada principalmente para desenvolvimento de aplicações de grande escala em Java Virtual Machine (JVM).",
+        "Scala significa Scalable Language."
+      ]
+    },
+    {
+      "nome": "Haskell",
+      "dicas": [
+        "Esta linguagem é conhecida por seu forte sistema de tipos e suas capacidades funcionais.",
+        "É amplamente usada em pesquisa acadêmica e em áreas relacionadas à inteligência artificial.",
+        "Foi desenvolvida na década de 1980."
+      ]
+    },
+    {
+      "nome": "Lua",
+      "dicas": [
+        "Esta linguagem é uma linguagem de script poderosa e leve.",
+        "É usada em uma variedade de aplicações, incluindo jogos, automação e sistemas embarcados.",
+        "Foi desenvolvida no Brasil na década de 1990."
+      ]
+    },
+    {
+      "nome": "Assembly",
+      "dicas": [
+        "Esta linguagem é uma linguagem de baixo nível que representa instruções de máquina específicas para um processador.",
+        "É usada para programação de sistemas, drivers de dispositivo e otimização de código.",
+        "Programas escritos nesta linguagem são difíceis de ler e entender."
+      ]
+    },
+    {
+      "nome": "Perl",
+      "dicas": [
+        "Esta linguagem é conhecida por sua expressividade e flexibilidade.",
+        "É amplamente usada em administração de sistemas, processamento de texto e desenvolvimento web.",
+        "Foi desenvolvida por Larry Wall."
+      ]
+    },
+    {
+      "nome": "Racket",
+      "dicas": [
+        "Esta linguagem é uma linguagem de programação funcional e multiparadigma.",
+        "É usada principalmente em educação e pesquisa, bem como para desenvolvimento de software.",
+        "Anteriormente conhecida como Scheme."
+      ]
+    },
+    {
+      "nome": "Dart",
+      "dicas": [
+        "Esta linguagem é usada principalmente para desenvolvimento de aplicativos móveis e web, especialmente com o framework Flutter.",
+        "Foi desenvolvida pelo Google.",
+        "É uma linguagem de programação orientada a objetos."
+      ]
+    },
+    {
+      "nome": "COBOL",
+      "dicas": [
+        "Esta linguagem é usada principalmente em aplicações de processamento de dados comerciais.",
+        "É uma das linguagens de programação mais antigas ainda em uso.",
+        "É conhecida por sua sintaxe verbose."
+      ]
+    }
+  ]
+}
